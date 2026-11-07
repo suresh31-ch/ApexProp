@@ -1,0 +1,6 @@
+{
+  "name": "ApexProp AI — Autonomous Property Intelligence",
+  "description": "Autonomous property defect investigation, risk intelligence, and maintenance planner powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
